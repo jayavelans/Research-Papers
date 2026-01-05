@@ -1,6 +1,5 @@
 # Research-Papers
 Research paper summaries and notes in machine learning and deep learning.
-# Research Papers
 
 This repository contains summaries and notes of research
 papers related to machine learning, deep learning, and
